@@ -1,0 +1,128 @@
+{
+  "Users": [
+    {
+      "username": "hajds",
+      "email": "sriaj711@gmail.com",
+      "password": "Ajay6569",
+      "id": 1
+    },
+    {
+      "username": "Ajaya",
+      "email": "sriaj711@gmail.com",
+      "password": "Ajay6569",
+      "id": 2
+    }
+  ],
+  "Products": [
+    {
+      "id": 11,
+      "pname": "Honey cake",
+      "category": "cake",
+      "price":15,
+      "images": [
+        "honey_cake1.jpg",
+        "honey_cake2.jpg",
+        "honey_cake3.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "pname": "Strawberry cake",
+      "category": "cake",
+      "price":25,
+      "images": [
+        "strawberry_cake1.jpg",
+        "strawberry_cake2.jpg",
+        "strawberry_cake3.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "pname": "Plain cake",
+      "category": "cake",
+      "price":55,
+      "images": [
+        "plain_cake2.jpg",
+        "plain_cake3.jpg",
+        "plain_cake4.jpg"
+      ]
+    },
+    {
+      "id": 14,
+      "pname": "Dark fantasy",
+      "category": "biscuits",
+      "price":15,
+      "images": [
+        "dark_fantasy1.jpg",
+        "dark_fantasy2.jpg",
+        "dark_fantasy3.jpg"
+      ]
+    },
+    {
+      "id": 15,
+      "pname": "Goodday",
+      "category": "biscuits",
+      "price":65,
+      "images": [
+        "goodday1.jpg",
+        "goodday2.jpg",
+        "goodday3.jpg"
+      ]
+    },
+    {
+      "id": 16,
+      "pname": "Oreo",
+      "category": "biscuits",
+      "price":23,
+      "images": [
+        "oreo1.jpg",
+        "oreo2.jpg",
+        "oreo3.jpg"
+      ]
+    },
+    {
+      "id": 17,
+      "pname": "Sugar cookie",
+      "category": "cookies",
+      "price":25,
+      "images": [
+        "sugar_cookie1.jpg",
+        "sugar_cookie2.jpg",
+        "sugar_cookie3.jpg"
+      ]
+    },
+    {
+      "id": 18,
+      "pname": "Biscotti cookie",
+      "category": "cookies",
+      "price":75,
+      "images": [
+        "biscotti_cookie1.jpg",
+        "biscotti_cookie2.jpg",
+        "biscotti_cookie3.jpg"
+      ]
+    },
+    {
+      "id": 19,
+      "pname": "Jelly doughnut",
+      "category": "doughnuts",
+      "price":15,
+      "images": [
+        "jelly_doughnut1.jpg",
+        "jelly_doughnut2.jpg",
+        "jelly_doughnut3.jpg"
+      ]
+    },
+    {
+      "id": 20,
+      "pname": "Blueberry doughnut",
+      "category": "doughnuts",
+      "price":15,
+      "images": [
+        "blueberry_doughnut1.jpg",
+        "blueberry_doughnut2.jpg",
+        "blueberry_doughnut3.jpg"
+      ]
+    }
+  ]
+}
